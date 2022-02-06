@@ -20,4 +20,4 @@ Made with [contrib.rocks](https://contrib.rocks).
 
 ## 免責聲名
 
-Touchwood App為香港電視娛樂(下稱ViuTV) 製作之喜劇電視劇 原創劇《IT狗》（英語：In Geek W Trust）的虛構app，版權全部屬於ViuTV，我都冇say，版權擁有者可以決定其他人是否有權使用他們的作品。
+Touchwood App為香港電視娛樂(下稱ViuTV) 製作之喜劇電視劇 原創劇《IT狗》（英語：In Geek We Trust）的虛構app，版權全部屬於ViuTV，我都冇say，版權擁有者可以決定其他人是否有權使用他們的作品。
