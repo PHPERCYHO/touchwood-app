@@ -8,8 +8,9 @@
 “我呀媽話，講錯嘢要touchwood。好似我咁樣，每日都講錯好多嘢，每次都搵唔度嚿wood嚟touch，所以我整咗呢個apps。”  -Never, 2022
 
 ## 安裝方法
-
-
+1. 從[release](https://github.com/PHPERCYHO/touchwood-app/releases)下載
+2. 安裝於android手機内
+3. 攪掂
 
 ## 開發者
 <a href="https://github.com/phpercyho/touchwood_app/graphs/contributors">
@@ -24,4 +25,4 @@ Touchwood App為香港電視娛樂(下稱ViuTV) 製作之喜劇電視劇 原創�
 
 ## 記事
 
-整到一半發現自己hardcode咗... "你自己都係programmer，你知道hardcode係大忌嚟㗎..." 又要由頭整過...
+整到一半發現自己hardcode咗。 "你自己都係programmer，你知道hardcode係大忌嚟㗎..." 又要由頭整過...
