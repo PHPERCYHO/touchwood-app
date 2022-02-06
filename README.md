@@ -8,7 +8,7 @@
 “我呀媽話，講錯嘢要touchwood。好似我咁樣，每日都講錯好多嘢，每次都搵唔度嚿wood嚟touch，所以我整咗呢個apps。”  -Never, 2022
 
 ## 安裝方法
-1. 從[Release](https://github.com/PHPERCYHO/touchwood-app/releases)下載
+1. 從[Release](https://github.com/PHPERCYHO/touchwood-app/releases)下載APK檔案，或按[這裡](https://github.com/PHPERCYHO/touchwood-app/releases/download/v0.1.0/Touchwood_App.apk)
 2. 安裝於Android手機内(不支援iOS裝置)
 3. 攪掂
 
